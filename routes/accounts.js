@@ -15,7 +15,7 @@ const {
     enableAccount,
     getAccountDisableList,
     addAddress
-} = require('../controllers/AccountController');
+} = require('../controllers/accountController');
 
 const { 
     isAuthenticatedAccount, 
